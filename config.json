@@ -1,0 +1,13 @@
+{
+    "word":"s?ill",
+    "inclusion":"s",
+    "exclusion": "fearodt",
+    "positional_exlusions":
+            {
+                "1": "f",
+                "2": "eot",
+                "3": "al",
+                "4": "ri",
+                "5": "sd"
+            }
+}
