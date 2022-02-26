@@ -1,5 +1,5 @@
 # Config based Wordle helper
 
-Edit the json config file as given with the example then simply run to get possible words with pattern
+Edit the json config file then simply run to get possible words with the given pattern
 
 `python play.py`
